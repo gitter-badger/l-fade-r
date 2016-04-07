@@ -1,5 +1,7 @@
 # L Fade R
 
+[![Join the chat at https://gitter.im/tiborsimon/l-fade-r](https://badges.gitter.im/tiborsimon/l-fade-r.svg)](https://gitter.im/tiborsimon/l-fade-r?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Real-time spatial audio filter with [Pure Data](http://puredata.info). 
 Discover your favorite records in a whole new perspective. You can interactively fade between the __left__ and __right__ 
 channels, and __L Fade R__ will mix the modified mix into a single __mono__ channel.
